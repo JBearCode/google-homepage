@@ -55,6 +55,12 @@ li {
     padding: 15px;
 }
 
+.google-menu-button-svg {
+    height: 30px;
+    width: 30px;
+    position: relative;
+}
+
 #google-sign-in {
     background-color: rgb(66, 133, 244);
     color: white;
