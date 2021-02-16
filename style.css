@@ -3,6 +3,11 @@ html, body {
     padding: 0;
 }
 
+body {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
+
 .main-logo {
     display: block;
     margin-left: auto;
