@@ -56,9 +56,15 @@ li {
 }
 
 .google-menu-button-svg {
+    display: inline;
     height: 30px;
     width: 30px;
-    position: relative;
+}
+
+#ninedots {
+    display: inline;
+    height: 30px;
+    width: 30px;
 }
 
 #google-sign-in {
